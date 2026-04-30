@@ -23,7 +23,7 @@ const gerardo = {
 };
 ```
 
-Desarrollo aplicaciones full stack para empresas y proyectos personales. Cuando la herramienta que necesito no existe — o la que hay no me convence — **la construyo**. Así nacieron `claumeter`, `claude-subagent-statusline`, `claude-shotlink` y `eloquent-visualizer`.
+Desarrollo aplicaciones full stack para empresas y proyectos personales. Cuando la herramienta que necesito no existe, o la que hay no me convence, **la construyo**. Así nacieron `claumeter`, `claude-subagent-statusline`, `claude-shotlink` y `eloquent-visualizer`.
 
 ---
 
@@ -105,16 +105,16 @@ Desarrollo aplicaciones full stack para empresas y proyectos personales. Cuando 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GerardoFC8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=es&hide_rank=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GerardoFC8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=es" />
 <img height="170" src="https://streak-stats.demolab.com?user=GerardoFC8&theme=tokyonight&hide_border=true&locale=es" />
 
 </div>
 
-#### Lenguajes — incluyendo repositorios privados
+#### Lenguajes (incluye repositorios privados)
 
 <div align="center">
 
-![Lenguajes](./metrics.plugin.languages.svg)
+![Lenguajes](https://raw.githubusercontent.com/GerardoFC8/GerardoFC8/main/metrics.plugin.languages.svg?v=2)
 
 </div>
 

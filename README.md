@@ -23,7 +23,7 @@ const gerardo = {
 };
 ```
 
-Desarrollo aplicaciones full stack para empresas y proyectos personales. Cuando la herramienta que necesito no existe, o la que hay no me convence, **la construyo**. Así nacieron `claumeter`, `claude-subagent-statusline`, `claude-shotlink` y `eloquent-visualizer`.
+Desarrollo aplicaciones full stack para empresas y proyectos personales. Cuando la herramienta que necesito no existe, o la que hay no me convence, **la construyo**. Así nacieron `apostrophe-for-windows`, `achica`, `claude-subagent-statusline` y `claumeter`, entre otras.
 
 ---
 
@@ -33,30 +33,45 @@ Desarrollo aplicaciones full stack para empresas y proyectos personales. Cuando 
 <tr>
 <td width="50%">
 
-[![claumeter](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=claumeter&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/claumeter)
+[![apostrophe-for-windows](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=apostrophe-for-windows&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/apostrophe-for-windows)
 
 </td>
 <td width="50%">
 
-[![claude-subagent-statusline](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=claude-subagent-statusline&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/claude-subagent-statusline)
+[![achica](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=achica&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/achica)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![claude-shotlink](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=claude-shotlink&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/claude-shotlink)
+[![claude-subagent-statusline](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=claude-subagent-statusline&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/claude-subagent-statusline)
 
 </td>
 <td width="50%">
 
-[![eloquent-visualizer](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=eloquent-visualizer&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/eloquent-visualizer)
+[![claumeter](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=claumeter&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/claumeter)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![windows-media-widget](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=windows-media-widget&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/windows-media-widget)
+
+</td>
+<td width="50%">
+
+[![claude-shotlink](https://github-readme-stats.vercel.app/api/pin/?username=GerardoFC8&repo=claude-shotlink&theme=tokyonight&hide_border=true)](https://github.com/GerardoFC8/claude-shotlink)
 
 </td>
 </tr>
 </table>
 
-> Instala mis CLIs con [`brew tap GerardoFC8/tap`](https://github.com/GerardoFC8/homebrew-tap)
+> **Pruébalos**
+> - CLIs (macOS / Linux): [`brew tap GerardoFC8/tap`](https://github.com/GerardoFC8/homebrew-tap)
+> - Apostrophe (Windows): `winget install GerardoFC8.ApostropheForWindows`
+> - achica (web): [achica.gfcode.dev](https://achica.gfcode.dev)
 
 ---
 
@@ -79,6 +94,7 @@ Desarrollo aplicaciones full stack para empresas y proyectos personales. Cuando 
 
 **Herramientas y sistemas** &nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Bubbletea](https://img.shields.io/badge/Bubbletea-FF75B7?style=flat-square&logo=go&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
